@@ -9,4 +9,7 @@ export const siteConfig = {
   // TODO: replace with your real Telegram signal group invite link.
   telegramLink: 'https://t.me/archonsignals',
   brokerName: 'EC Markets',
+  // The flagship gold (XAUUSD) signal program.
+  signalProduct: 'XAU EXECUTER',
+  signalProductSub: 'by RI',
 }

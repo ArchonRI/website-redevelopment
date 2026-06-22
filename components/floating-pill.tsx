@@ -55,10 +55,10 @@ export function FloatingPill() {
             THE ARCHON EDGE
           </div>
           <p className="mt-2 text-sm font-medium leading-snug text-foreground">
-            Private broker setup &amp; live signal desk for traders.
+            XAU EXECUTER — our private gold signal desk is open to new traders.
           </p>
           <p className="mt-1.5 text-xs text-primary underline-offset-4 hover:underline">
-            See member benefits →
+            Claim your access →
           </p>
         </Link>
       </div>
