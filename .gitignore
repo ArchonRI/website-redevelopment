@@ -13,3 +13,14 @@ __v0_jsx-dev-runtime.ts
 node_modules
 .next/
 .DS_Store
+
+# Cloudflare / OpenNext
+.open-next/
+.wrangler/
+cloudflare-env.d.ts
+.dev.vars
+
+# Generated / tooling
+next-env.d.ts
+skills-lock.json
+.agents/
